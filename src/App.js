@@ -107,9 +107,9 @@ class App extends Component {
       </div>
     );
   }
-};;;;
+}
 
 export default App;
 // Sever Start : npm start; 테스트 할때
 // npm run build : 배포시 이걸로 빌드해서 배포해야함 배포해야함
-//실행법 : npx serve -s build
+// 실행법 : npx serve -s build (npx : 패키지 설치후 실행한뒤 설치한패키지 삭제)
